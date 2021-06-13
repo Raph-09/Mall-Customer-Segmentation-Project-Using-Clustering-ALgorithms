@@ -2,7 +2,7 @@
 
 
 
-LINK TO APP:https://www.google.com/search?q=car%20images&tbm=isch&tbs=il:cl&rlz=1C1CHNY_enNG904NG904&hl=en-US&sa=X&ved=0CAAQ1vwEahcKEwjYnsjQmIjxAhUAAAAAHQAAAAAQAg&biw=1010&bih=474
+LINK TO APP:https://akpan1653.medium.com/mall-customer-segmentation-project-using-clustering-algorithms-d459d31135ae?source=friends_link&sk=a6c5b2600d15b0b473d27939b27a422c
 
 ![employee_image](https://user-images.githubusercontent.com/72034856/121223251-3d503300-c87f-11eb-8c96-5440e2ada781.jpg)
 pxhere.com cc
