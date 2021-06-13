@@ -43,6 +43,7 @@ The following steps where followed:
 # Performance Evaluation
 For KMEANS
 The sihoutte score is 0.45
+
 For DBSCAN
 The sihoutte score is 0.20
     
