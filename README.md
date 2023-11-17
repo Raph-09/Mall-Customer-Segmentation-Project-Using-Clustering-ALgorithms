@@ -61,4 +61,4 @@ The sihoutte score is 0.20
  
  seaborn
  
- matplotlib.........
+ matplotlib
